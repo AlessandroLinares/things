@@ -34,11 +34,7 @@ body {
     font-family: emoji;
     font-size: 30;
 }
-#post h1{
-    font-size: 35;
+#post {
+    font-size: 20;
     margin-top: 45;
-}
-#post p{
-    font-size: 25;
-    margin-top: 55;
 }
